@@ -12,7 +12,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.0 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/andygrunwald/go-gerrit v0.0.0-20171029143327-95b11af228a1
-	github.com/aws/aws-k8s-tester v0.0.0-20190114231546-b411acf57dfe
+	github.com/aws/aws-k8s-tester 0.2.4
 	github.com/aws/aws-sdk-go v1.16.22
 	github.com/bazelbuild/buildtools v0.0.0-20180226164855-80c7f0d45d7e
 	github.com/bwmarrin/snowflake v0.0.0-20170221160716-02cc386c183a
